@@ -1,0 +1,8 @@
+{
+  "name": "The Archivist - Restaurant Intelligence",
+  "description": "A high-performance AI system designed to ingest unstructured restaurant data (invoices, inventory, incidents, HR) and convert it into structured JSON knowledge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
